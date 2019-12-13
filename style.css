@@ -1,1 +1,10 @@
+body {
+    color: rgb(194, 17, 17);
+    text-align: center;
+    background-color: black;
+    text-align: center;
+}
 
+img {
+    width:45%;
+}
